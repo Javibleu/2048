@@ -1,3 +1,9 @@
+Food:
 pastel de papa
 empanadas
 milanesa con papas
+
+Movies:
+blue
+rouge
+blanc
